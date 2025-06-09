@@ -1,0 +1,6 @@
+elena 17 ion 21
+ioana 21 ghita 13
+elena 21 ghita 10
+elena 21 ioana 9
+ioana 20 stephanie 21
+ghita 10 george 21

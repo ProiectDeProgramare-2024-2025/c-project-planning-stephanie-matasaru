@@ -1,0 +1,7 @@
+6
+elena 2 1
+ion 1 0
+ioana 1 2
+ghita 0 3
+stephanie 1 0
+george 1 0
